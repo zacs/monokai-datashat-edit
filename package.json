@@ -15,6 +15,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "readme": "An Atom version of the theme found on musicForProgramming(). This is just a nicely-packaged conversion of the stTheme file put together by John Davies. The packaging allows it to be installed like a normal Atom theme.",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/zacs/monokai-datashat-edit/issues"
