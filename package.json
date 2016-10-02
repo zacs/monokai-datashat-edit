@@ -1,0 +1,23 @@
+{
+  "name": "monokai-datashat-edit",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Customized Monokai from musicforprogramming.ner",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacs/monokai-datashat-edit.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/zacs/monokai-datashat-edit/issues"
+  },
+  "homepage": "https://github.com/zacs/monokai-datashat-edit#readme"
+}
