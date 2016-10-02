@@ -1,8 +1,8 @@
 {
   "name": "monokai-datashat-edit",
   "theme": "syntax",
-  "version": "0.0.1",
-  "description": "Customized Monokai from musicforprogramming.ner",
+  "version": "0.1.0",
+  "description": "Customized Monokai from musicforprogramming.net",
   "keywords": [
     "syntax",
     "theme"
