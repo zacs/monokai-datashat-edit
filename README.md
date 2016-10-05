@@ -6,4 +6,4 @@ An Atom version of the theme found on [musicForProgramming();](http://musicforpr
 
 This is just a nicely-packaged conversion of the `stTheme` file put together by [John Davies](http://johndatadavies.info/). The packaging allows it to be installed like a normal Atom theme.
 
-The UI theme in the above screenshot is [Material UI](https://atom.io/themes/atom-material-ui). If you use Material UI, I'd recommend you change your primary color to `#66D9EF` to best match this theme.
+The UI theme in the above screenshot is [Material UI](https://atom.io/themes/atom-material-ui). If you use Material UI, I'd recommend you change your primary color to `#00617d` and accent color to `#66D9EF` to best match this theme.
